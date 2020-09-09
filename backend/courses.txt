@@ -1,0 +1,240 @@
+CSCI 1105 Intro to Computer Programming
+CSCI 1107 Social Computing
+CSCI 1109 Practical Data Science
+CSCI 1110 Intro to Computer Science
+CSCI 1120 Intro to Computer Systems
+CSCI 1170 Intro to Web Design & Devel.
+CSCI 1300 Calculus in Computer Science
+CSCI 1315 Discrete Math for CS
+CSCI 1800 Computing & Society in History
+CSCI 1900 Acad Found for CS Studies
+CSCI 2100 Workplace Comm for CS
+CSCI 2110 Data Structures & Algorithms
+CSCI 2112 Discrete Structures I
+CSCI 2122 Systems Programming
+CSCI 2134 Software Development
+CSCI 2141 Intro to Database Systems
+CSCI 2170 Intro to Server Side Scripting
+CSCI 2201 Introduction to Info Security
+CSCI 2202 Intro to Programming w/ applic
+CSCI 2690 Intro to Software Projects
+CSCI 1105 Intro to Computer Programming
+CSCI 1107 Social Computing
+CSCI 1109 Practical Data Science
+CSCI 1110 Intro to Computer Science
+CSCI 1120 Intro to Computer Systems
+CSCI 1170 Intro to Web Design & Devel.
+CSCI 1300 Calculus in Computer Science
+CSCI 1315 Discrete Math for CS
+CSCI 1800 Computing & Society in History
+CSCI 1900 Acad Found for CS Studies
+CSCI 2100 Workplace Comm for CS
+CSCI 2110 Data Structures & Algorithms
+CSCI 2112 Discrete Structures I
+CSCI 2122 Systems Programming
+CSCI 2134 Software Development
+CSCI 2141 Intro to Database Systems
+CSCI 2170 Intro to Server Side Scripting
+CSCI 2201 Introduction to Info Security
+CSCI 2202 Intro to Programming w/ applic
+CSCI 2690 Intro to Software Projects
+CSCI 1105 Intro to Computer Programming
+CSCI 1107 Social Computing
+CSCI 1109 Practical Data Science
+CSCI 1110 Intro to Computer Science
+CSCI 1120 Intro to Computer Systems
+CSCI 1170 Intro to Web Design & Devel.
+CSCI 1300 Calculus in Computer Science
+CSCI 1315 Discrete Math for CS
+CSCI 1800 Computing & Society in History
+CSCI 1900 Acad Found for CS Studies
+CSCI 2100 Workplace Comm for CS
+CSCI 2110 Data Structures & Algorithms
+CSCI 2112 Discrete Structures I
+CSCI 2122 Systems Programming
+CSCI 2134 Software Development
+CSCI 2141 Intro to Database Systems
+CSCI 2170 Intro to Server Side Scripting
+CSCI 2201 Introduction to Info Security
+CSCI 2202 Intro to Programming w/ applic
+CSCI 2690 Intro to Software Projects
+CSCI 1105 Intro to Computer Programming
+CSCI 1107 Social Computing
+CSCI 1109 Practical Data Science
+CSCI 1110 Intro to Computer Science
+CSCI 1120 Intro to Computer Systems
+CSCI 1170 Intro to Web Design & Devel.
+CSCI 1300 Calculus in Computer Science
+CSCI 1315 Discrete Math for CS
+CSCI 1800 Computing & Society in History
+CSCI 1900 Acad Found for CS Studies
+CSCI 2100 Workplace Comm for CS
+CSCI 2110 Data Structures & Algorithms
+CSCI 2112 Discrete Structures I
+CSCI 2122 Systems Programming
+CSCI 2134 Software Development
+CSCI 2141 Intro to Database Systems
+CSCI 2170 Intro to Server Side Scripting
+CSCI 2201 Introduction to Info Security
+CSCI 2202 Intro to Programming w/ applic
+CSCI 2690 Intro to Software Projects
+CSCI 1105 Intro to Computer Programming
+CSCI 1107 Social Computing
+CSCI 1109 Practical Data Science
+CSCI 1110 Intro to Computer Science
+CSCI 1120 Intro to Computer Systems
+CSCI 1170 Intro to Web Design & Devel.
+CSCI 1300 Calculus in Computer Science
+CSCI 1315 Discrete Math for CS
+CSCI 1800 Computing & Society in History
+CSCI 1900 Acad Found for CS Studies
+CSCI 2100 Workplace Comm for CS
+CSCI 2110 Data Structures & Algorithms
+CSCI 2112 Discrete Structures I
+CSCI 2122 Systems Programming
+CSCI 2134 Software Development
+CSCI 2141 Intro to Database Systems
+CSCI 2170 Intro to Server Side Scripting
+CSCI 2201 Introduction to Info Security
+CSCI 2202 Intro to Programming w/ applic
+CSCI 2690 Intro to Software Projects
+CSCI 1105 Intro to Computer Programming
+CSCI 1107 Social Computing
+CSCI 1109 Practical Data Science
+CSCI 1110 Intro to Computer Science
+CSCI 1120 Intro to Computer Systems
+CSCI 1170 Intro to Web Design & Devel.
+CSCI 1300 Calculus in Computer Science
+CSCI 1315 Discrete Math for CS
+CSCI 1800 Computing & Society in History
+CSCI 1900 Acad Found for CS Studies
+CSCI 2100 Workplace Comm for CS
+CSCI 2110 Data Structures & Algorithms
+CSCI 2112 Discrete Structures I
+CSCI 2122 Systems Programming
+CSCI 2134 Software Development
+CSCI 2141 Intro to Database Systems
+CSCI 2170 Intro to Server Side Scripting
+CSCI 2201 Introduction to Info Security
+CSCI 2202 Intro to Programming w/ applic
+CSCI 2690 Intro to Software Projects
+CSCI 1105 Intro to Computer Programming
+CSCI 1107 Social Computing
+CSCI 1109 Practical Data Science
+CSCI 1110 Intro to Computer Science
+CSCI 1120 Intro to Computer Systems
+CSCI 1170 Intro to Web Design & Devel.
+CSCI 1300 Calculus in Computer Science
+CSCI 1315 Discrete Math for CS
+CSCI 1800 Computing & Society in History
+CSCI 1900 Acad Found for CS Studies
+CSCI 2100 Workplace Comm for CS
+CSCI 2110 Data Structures & Algorithms
+CSCI 2112 Discrete Structures I
+CSCI 2122 Systems Programming
+CSCI 2134 Software Development
+CSCI 2141 Intro to Database Systems
+CSCI 2170 Intro to Server Side Scripting
+CSCI 2201 Introduction to Info Security
+CSCI 2202 Intro to Programming w/ applic
+CSCI 2690 Intro to Software Projects
+CSCI 1105 Intro to Computer Programming
+CSCI 1107 Social Computing
+CSCI 1109 Practical Data Science
+CSCI 1110 Intro to Computer Science
+CSCI 1120 Intro to Computer Systems
+CSCI 1170 Intro to Web Design & Devel.
+CSCI 1300 Calculus in Computer Science
+CSCI 1315 Discrete Math for CS
+CSCI 1800 Computing & Society in History
+CSCI 1900 Acad Found for CS Studies
+CSCI 2100 Workplace Comm for CS
+CSCI 2110 Data Structures & Algorithms
+CSCI 2112 Discrete Structures I
+CSCI 2122 Systems Programming
+CSCI 2134 Software Development
+CSCI 2141 Intro to Database Systems
+CSCI 2170 Intro to Server Side Scripting
+CSCI 2201 Introduction to Info Security
+CSCI 2202 Intro to Programming w/ applic
+CSCI 2690 Intro to Software Projects
+CSCI 1105 Intro to Computer Programming
+CSCI 1107 Social Computing
+CSCI 1109 Practical Data Science
+CSCI 1110 Intro to Computer Science
+CSCI 1120 Intro to Computer Systems
+CSCI 1170 Intro to Web Design & Devel.
+CSCI 1300 Calculus in Computer Science
+CSCI 1315 Discrete Math for CS
+CSCI 1800 Computing & Society in History
+CSCI 1900 Acad Found for CS Studies
+CSCI 2100 Workplace Comm for CS
+CSCI 2110 Data Structures & Algorithms
+CSCI 2112 Discrete Structures I
+CSCI 2122 Systems Programming
+CSCI 2134 Software Development
+CSCI 2141 Intro to Database Systems
+CSCI 2170 Intro to Server Side Scripting
+CSCI 2201 Introduction to Info Security
+CSCI 2202 Intro to Programming w/ applic
+CSCI 2690 Intro to Software Projects
+CSCI 1105 Intro to Computer Programming
+CSCI 1107 Social Computing
+CSCI 1109 Practical Data Science
+CSCI 1110 Intro to Computer Science
+CSCI 1120 Intro to Computer Systems
+CSCI 1170 Intro to Web Design & Devel.
+CSCI 1300 Calculus in Computer Science
+CSCI 1315 Discrete Math for CS
+CSCI 1800 Computing & Society in History
+CSCI 1900 Acad Found for CS Studies
+CSCI 2100 Workplace Comm for CS
+CSCI 2110 Data Structures & Algorithms
+CSCI 2112 Discrete Structures I
+CSCI 2122 Systems Programming
+CSCI 2134 Software Development
+CSCI 2141 Intro to Database Systems
+CSCI 2170 Intro to Server Side Scripting
+CSCI 2201 Introduction to Info Security
+CSCI 2202 Intro to Programming w/ applic
+CSCI 2690 Intro to Software Projects
+CSCI 1105 Intro to Computer Programming
+CSCI 1107 Social Computing
+CSCI 1109 Practical Data Science
+CSCI 1110 Intro to Computer Science
+CSCI 1120 Intro to Computer Systems
+CSCI 1170 Intro to Web Design & Devel.
+CSCI 1300 Calculus in Computer Science
+CSCI 1315 Discrete Math for CS
+CSCI 1800 Computing & Society in History
+CSCI 1900 Acad Found for CS Studies
+CSCI 2100 Workplace Comm for CS
+CSCI 2110 Data Structures & Algorithms
+CSCI 2112 Discrete Structures I
+CSCI 2122 Systems Programming
+CSCI 2134 Software Development
+CSCI 2141 Intro to Database Systems
+CSCI 2170 Intro to Server Side Scripting
+CSCI 2201 Introduction to Info Security
+CSCI 2202 Intro to Programming w/ applic
+CSCI 2690 Intro to Software Projects
+CSCI 1105 Intro to Computer Programming
+CSCI 1107 Social Computing
+CSCI 1109 Practical Data Science
+CSCI 1110 Intro to Computer Science
+CSCI 1120 Intro to Computer Systems
+CSCI 1170 Intro to Web Design & Devel.
+CSCI 1300 Calculus in Computer Science
+CSCI 1315 Discrete Math for CS
+CSCI 1800 Computing & Society in History
+CSCI 1900 Acad Found for CS Studies
+CSCI 2100 Workplace Comm for CS
+CSCI 2110 Data Structures & Algorithms
+CSCI 2112 Discrete Structures I
+CSCI 2122 Systems Programming
+CSCI 2134 Software Development
+CSCI 2141 Intro to Database Systems
+CSCI 2170 Intro to Server Side Scripting
+CSCI 2201 Introduction to Info Security
+CSCI 2202 Intro to Programming w/ applic
+CSCI 2690 Intro to Software Projects
