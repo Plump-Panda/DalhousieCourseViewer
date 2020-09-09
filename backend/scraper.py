@@ -7,8 +7,8 @@ page1 = "https://dalonline.dal.ca/PROD/fysktime.P_DisplaySchedule?s_term=202110&
 page2 = "https://dalonline.dal.ca/PROD/fysktime.P_DisplaySchedule?s_term=202110&s_crn=&s_subj=CSCI&s_numb=&n=21&s_district=All"
 page3 = "https://dalonline.dal.ca/PROD/fysktime.P_DisplaySchedule?s_term=202110&s_crn=&s_subj=CSCI&s_numb=&n=41&s_district=All"
 page4 = "https://dalonline.dal.ca/PROD/fysktime.P_DisplaySchedule?s_term=202110&s_crn=&s_subj=CSCI&s_numb=&n=61&s_district=All"
-pages = [page1] #just for testing
-#pages = [page1,page2,page3,page4]
+#pages = [page1] #just for testing
+pages = [page1,page2,page3,page4]
 
 courses = []
 courseDescriptionLinks = []
@@ -41,7 +41,7 @@ for i in pages:
 #Will scrape the course description websites
 for i in range(0,len(courseDescriptionLinks)):
     page = requests.get(courseDescriptionLinks[i])
-    print("Getting Description page")
+    print("Getting Description page for", courses[i][0].getText()[0:9])
     if page.status_code != 200:
         print("Error scrapping",i)
 
@@ -69,5 +69,6 @@ for i in range(0,len(courses)):
         'description': courseDescription[i]
     })
 
+#Makes the json file we store the data in
 with open('../src/data/data.json', 'w') as outfile:
     json.dump(data,outfile)
