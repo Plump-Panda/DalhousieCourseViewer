@@ -1,6 +1,8 @@
 import React, {Component} from 'react';
 import {Link} from 'react-router-dom';
-
+import { Dropdown } from 'react-bootstrap';
+import DropdownItem from 'react-bootstrap/esm/DropdownItem';
+import DropdownMenu from 'react-bootstrap/esm/DropdownMenu';
 export default class Navbar extends Component{
     render(){
         return(
@@ -22,6 +24,19 @@ export default class Navbar extends Component{
                         </li>
                     </ul>
                 </div>
+                <Dropdown>
+                    <Dropdown.Toggle variant="success" id="dropdown-basic">
+                        Other Courses
+                    </Dropdown.Toggle>
+
+                    <DropdownMenu>
+                        <DropdownItem as={Link} to='/level-six'>6000 Level</DropdownItem>
+                        <DropdownItem as={Link} to='/level-seven'>8000 Level</DropdownItem>
+                        <DropdownItem as={Link} to='/level-eight'>8000 Level</DropdownItem>
+                        <DropdownItem as={Link} to='/level-nine'>9000 Level</DropdownItem>
+                    </DropdownMenu>
+                </Dropdown>
+
             </nav>
         );
     }

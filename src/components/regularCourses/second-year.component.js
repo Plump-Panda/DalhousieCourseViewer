@@ -1,6 +1,6 @@
 import React, {Component} from 'react';
 import {Link} from 'react-router-dom';
-import json from '../data/data.json';
+import json from '../../data/data.json';
 
 export default class SecondYear extends Component{
 
@@ -14,7 +14,7 @@ export default class SecondYear extends Component{
             const {code,name} = course;
             let check = code.toString().charAt(5);
             
-            if(check == '2'){
+            if(check === '2'){
                 return(
                     <tr>
                         <td>{code}</td>
