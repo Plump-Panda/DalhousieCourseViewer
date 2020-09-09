@@ -9,6 +9,10 @@ import FirstYear from "./components/regularCourses/first-year.component";
 import SecondYear from "./components/regularCourses/second-year.component";
 import ThirdYear from "./components/regularCourses/third-year.component";
 import FourthYear from "./components/regularCourses/fourth-year.component";
+import LevelSix from "./components/otherCourses/level-six.component";
+import LevelSeven from "./components/otherCourses/level-seven.component";
+import LevelEight from "./components/otherCourses/level-eight.component";
+import LevelNine from "./components/otherCourses/level-nine.component";
 import AllCourses from "./components/all-courses.component";
 
 function App() {
@@ -22,6 +26,10 @@ function App() {
         <Route path="/second-year" exact component={SecondYear}/>
         <Route path="/third-year" exact component={ThirdYear}/>
         <Route path="/fourth-year" exact component={FourthYear}/>
+        <Route path="/level-six" exact component={LevelSix}/>
+        <Route path="/level-seven" exact component={LevelSeven}/>
+        <Route path="/level-eight" exact component={LevelEight}/>
+        <Route path="/level-nine" exact component={LevelNine}/>
       </div>
     </Router>
   );

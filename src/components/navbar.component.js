@@ -31,7 +31,7 @@ export default class Navbar extends Component{
 
                     <DropdownMenu>
                         <DropdownItem as={Link} to='/level-six'>6000 Level</DropdownItem>
-                        <DropdownItem as={Link} to='/level-seven'>8000 Level</DropdownItem>
+                        <DropdownItem as={Link} to='/level-seven'>7000 Level</DropdownItem>
                         <DropdownItem as={Link} to='/level-eight'>8000 Level</DropdownItem>
                         <DropdownItem as={Link} to='/level-nine'>9000 Level</DropdownItem>
                     </DropdownMenu>
